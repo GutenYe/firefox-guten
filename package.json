@@ -1,0 +1,10 @@
+{
+  "name": "guten",
+  "fullName": "guten",
+  "id": "guten@gutenye.com",
+  "description": "my add-on",
+	"dependencies": ["api-utils", "addon-kit"],
+  "author": "",
+  "license": "GPL",
+  "version": "0.1"
+}
