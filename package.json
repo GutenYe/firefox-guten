@@ -1,10 +1,10 @@
 {
-  "name": "guten",
-  "fullName": "guten",
+  "name": "Guten",
+  "fullName": "Guten",
   "id": "guten@gutenye.com",
   "description": "my add-on",
 	"dependencies": ["api-utils", "addon-kit"],
-  "author": "",
+  "author": "Guten",
   "license": "GPL",
-  "version": "0.1"
+  "version": "0.2"
 }
