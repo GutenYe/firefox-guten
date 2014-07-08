@@ -1,7 +1,7 @@
 {
   "name": "Guten",
-  "fullName": "Guten",
-  "id": "guten@gutenye.com",
+  "title": "Guten",
+  "id": "guten@gutenye",
   "description": "my add-on",
 	"dependencies": ["api-utils", "addon-kit"],
   "author": "Guten",
